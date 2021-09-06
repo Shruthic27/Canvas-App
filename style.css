@@ -1,0 +1,97 @@
+#c1{
+    border-width: 3;
+    border-color: black;
+    border-style: solid;
+}
+body{
+    background-color:#ecbdff; 
+    text-align: center;
+ }
+ 
+ h1{
+   color: red;  
+ }
+ button{
+     background-color: #9dfcef;
+     color: red;
+ }
+ .body_backgorund {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+    background-color:rgb(229, 139, 252);
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #bfffff;
+    border: none;
+    color: rgb(255, 0, 0);
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  #canvas1
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+	border-color: black;
+}
+
+
+h3
+{
+	display: inline-block;
+	color: red; 
+      font-size: 40px;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+
+body{
+    cursor: pointer;
+    background-color:rgb(229, 139, 252);
+  }
+  h2
+  {
+      color: red; 
+      font-size: 40px;
+	  border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+  }
